@@ -1,6 +1,6 @@
-const myName = 'Rume Akpede'
-const myHeight = "17.2"
-const myCountry = "Nigeria"
+const name = "Rume Akpede"
+const height = "17.2"
+const country = "Nigeria"
 
 alert(`
 Rume Akpede
