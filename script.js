@@ -1,6 +1,9 @@
 
-let name = 'Rume Mrakpor';
-let height = "1.72M";
-let country = "Nigeria";
+const name = "Rume Mrakpor"
+const height = 1.72M
+const country = "Nigeria"
 
-alert(Name +"\n"+ height +'\n'+ country);
+alert(`My name is ${name}
+My height is ${height}
+I am from ${country}.`)
+
