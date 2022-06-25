@@ -1,8 +1,8 @@
-const myname = "Rume Akpede"
-const height = 17.2
-const country = "Nigeria"
+const myName = "Rume Akpede"
+const myHeight = 17.2
+const myCountry = "Nigeria"
 alert(`Hello,)
-My name is ${myname}
-My height is ${height}
-I  am from ${country}`)
+My name is ${my Name}
+My height is ${My Height}
+I  am from ${My Country}`)
 
