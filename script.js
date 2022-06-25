@@ -1,10 +1,8 @@
-
-const name = "Rume Mrakpor"
-const height = 1.72M
+const name = "Rume Akpede"
+const height = 17.2
 const country = "Nigeria"
-
-alert(`welcome,
-My name is ${name}
+alert(`Hello,)
+My name is ${myname}
 My height is ${height}
-I am from ${country}.`)
+I  am from ${country}`)
 
